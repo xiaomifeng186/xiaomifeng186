@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding='UTF-8' ?> 
+<PushSenderConfig nodeid="0"> 
+  <pushmsgsenderset nodeid ="1"> 
+    <pushmsgsender nodeid ="2" class =  
+"com.sun.content.server.server.msgserver.push.SMSHTTPPushMsgSender" protocol="sms"/> 
+    <pushmsgsender nodeid ="3" class =  
+"com.sun.content.server.server.msgserver.push.WAPPushMsgSender" protocol="wap"/> 
+    <pushmsgsender nodeid ="4" class =  
+"com.sun.content.server.server.msgserver.push.SMTPushMsgSender" protocol="smtp"/> 
+</pushmsgsenderset> 
+</PushSenderConfig> 
