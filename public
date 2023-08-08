@@ -1,0 +1,9 @@
+public static final long PUSH_SUBSCRIBER_DETAIL_URL_CATEGORY = "subscriber_detail_url" 
+public static final long PUSH_MOBILE_ORIGINATED_DETAIL_URL_CATEGORY = "mobile_originated_detail_url" 
+public static final long PUSH_CONTENT_BINARY_CATEGORY = "content_binary" 
+public static final long PUSH_GIFTING_DETAIL_URL_CATEGORY = "gifting_detail_url" 
+public static final long PUSH_CONTENT_SHARING_DETAIL_URL_CATEGORY = "content_sharing_detail_url" 
+public static final long PUSH_PASSWORD_REMINDER_CATEGORY = "password_reminder"  
+public static final long PUSH_CAMPAIGN_MESSAGE_CATEGORY = "campaign_message"  
+public static final long PUSH_DEVELOPER_MESSAGE_CATEGORY = "developer_message" 
+public static final long PUSH_NEW_MODEL_EMAIL_NOTIFICATION_CATEGORY = "new_model_email_notificati
